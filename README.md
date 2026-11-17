@@ -24,7 +24,7 @@ It is a decision-support tool, not an autonomous trading system, a forecasting m
 - **11 Macro Deep Dive** — FRED financial conditions, systemic stress and inflation releases
 - **12 Event Pulse** — market-impact matrix and market-moving headlines
 
-Option-chain, gamma and unusual-options modules are intentionally excluded from this public English edition. They are not fetched in the active application path.
+Option-chain, gamma and unusual-options pages are intentionally excluded from this public English edition. The active application path does not fetch option-chain data.
 
 ## Architecture
 
