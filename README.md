@@ -2,7 +2,7 @@
 
 **English-language cross-asset research terminal built with Streamlit and Plotly.**
 
-[GitHub repository](https://github.com/doggy-ferry/macro-quant-desk-portfolio)
+[Live demo](https://xuanlin-macro-quant-desk.streamlit.app/) · [GitHub repository](https://github.com/doggy-ferry/macro-quant-desk-portfolio)
 
 Macro Quant Desk converts a personal market-monitoring workflow into a public portfolio project without replacing the original terminal with a simplified landing page. The application keeps the dense information architecture of the working research system and translates the interface directly into English.
 
